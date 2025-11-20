@@ -29,16 +29,6 @@ Perfect for students, families, freelancers, or anyone who wants better control 
 
 ---
 
-## 📂 Project Structure
-
-<pre>
-📁 expense-tracker/
-│
-├── app.py
-├── expenses.csv (auto-created on first run)
-└── README.md
-<pre>
-
 
 ### 📸 App in Action
 Visualizing the app's working and main functions:
@@ -58,3 +48,14 @@ Visualizing the app's working and main functions:
   <img src="images/3.png" width="800">
 </p>
 
+---
+
+## 📂 Project Structure
+
+<pre>
+📁 expense-tracker/
+│
+├── app.py
+├── expenses.csv (auto-created on first run)
+└── README.md
+<pre>
