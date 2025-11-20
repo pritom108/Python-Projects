@@ -38,3 +38,23 @@ Perfect for students, families, freelancers, or anyone who wants better control 
 ├── expenses.csv (auto-created on first run)
 └── README.md
 <pre>
+
+
+### 📸 App in Action
+Visualizing the app's working and main functions:
+
+<p align="center">
+  <b>1. Adding an Expense</b> – Enter date, category, and amount.<br>
+  <img src="images/1.png" width="800">
+</p>
+
+<p align="center">
+  <b>2. Expense Summary & Charts</b> – View total spending and category-wise bar chart.<br>
+  <img src="images/2.png" width="800">
+</p>
+
+<p align="center">
+  <b>3. Budget Alert & Data Table</b> – Get budget alerts and see all expense records.<br>
+  <img src="images/3.png" width="800">
+</p>
+
