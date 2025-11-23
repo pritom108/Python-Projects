@@ -20,6 +20,7 @@ if mode == 'Normal':
     st.header('Normal calculations')
     col1, col2 = st.columns(2)
     with col1:
+        st.subheader('Normal')
         a = st.number_input('A', value=0.0, format='%f')
         b = st.number_input('B', value=0.0, format='%f')
         op = st.selectbox('Operation', ['add', 'sub', 'mul', 'div', 'pow'])
@@ -89,6 +90,7 @@ elif mode == 'Base-N':
     # Conversion Section
     # -----------------------------
     with col1:
+        st.subheader("Base Conversion")
         base_from = st.selectbox('From base', [2, 8, 10, 16], index=2)
         s = st.text_input('Value (no prefix)', value='15')
         base_to = st.selectbox('To base', [2, 8, 10, 16], index=0)
